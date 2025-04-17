@@ -56,7 +56,7 @@ You may share and adapt the materials for non-commercial purposes with proper at
 ## 🚀 Contact
 
 For collaboration, clinical deployment, biotech licensing, or API access to this system:  
-📧 **Contact:** Anwar Mohamed  
+📧 **Contact:** ecssignalling@gmail.com  
 🔗 **More:** Coming soon via functional medicine licensing portal
 
 ---
