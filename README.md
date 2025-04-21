@@ -49,14 +49,14 @@ You may share and adapt the materials for non-commercial purposes with proper at
 
 ## 📣 Citation
 
-> Mohamed, A. (2025). *AI-Driven Quantum Immunology: The Future of Immune System Bioenergetics*. Zenodo. https://doi.org/xxxxxxxxxxx
+> Mohamed, A. (2025). *AI-Driven Quantum Immunology: The Future of Immune System Bioenergetics*. Zenodo. https://doi.10.5281/zenodo.15237931
 
 ---
 
 ## 🚀 Contact
 
 For collaboration, clinical deployment, biotech licensing, or API access to this system:  
-📧 **Contact:** ecssignalling@gmail.com  
+📧 **Contact: TeamMohamed@proton.me  
 🔗 **More:** Coming soon via functional medicine licensing portal
 
 ---
